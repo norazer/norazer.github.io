@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://norazer.github.io/sitemap.html.gz
+Sitemap: https://norazer.github.io/app/sitemap.html.gz
+Sitemap: https://norazer.github.io/assets/sitemap.html.gz
+Sitemap: https://norazer.github.io/css/sitemap.html.gz
+Sitemap: https://norazer.github.io/includes/sitemap.html.gz
+Sitemap: https://norazer.github.io/item/sitemap.html.gz
+Sitemap: https://norazer.github.io/src/sitemap.html.gz
